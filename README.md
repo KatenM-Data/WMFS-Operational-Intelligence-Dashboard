@@ -59,3 +59,19 @@ CALCULATE(
     ),
     CriticalIncidents
 )
+
+```
+## 🏆 Skills Demonstrated
+
+*   **Large-Scale Data Handling:** Successfully managed and visualised an operational dataset containing over **449,000 records** without performance degradation.
+*   **Data Cleaning (ETL):** Designed robust, automated ingestion pipelines in Power Query to parse, clean, and standardise high-variance public sector files.
+*   **Advanced Power BI & DAX:** Applied variables, context transition, and complex iterative calculations (`AVERAGEX` + `FILTER`) to model resource allocations.
+*   **User-Centred Design (UI/UX):** Developed a high-contrast, dark-themed operational dashboard designed specifically for rapid decision-making (the **3-Second Rule**) [11].
+*   **Operations & Logistics:** Translated raw dispatch numbers into actionable insights regarding vehicle deployment costs, fleet pressure, and asset maintenance.
+
+---
+
+### 🎓 Project Credentials
+*   **Developer:** Katen Morker
+*   **Credentials:** BEng (Hons) Civil Engineering | Certified Data Analyst
+*   **Source Data:** West Midlands Fire Service (WMFS) via the Birmingham City Observatory
