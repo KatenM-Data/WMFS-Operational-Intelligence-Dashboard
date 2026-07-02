@@ -42,7 +42,7 @@ I wrote an automated ingestion pipeline in Power Query to clean the raw 100MB+ f
 ### 2. Operational DAX Calculations
 I created a dedicated measures table to house the business logic, keeping my DAX formulas clean, efficient, and easy to interpret:
 
-![DAX Measures](DAX_Calculated_Measures.png)
+![DAX Measures](DAX.png)
 
 ```dax
 -- Calculating the percentage of false alarms across all incidents
